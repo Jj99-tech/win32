@@ -226,7 +226,7 @@ The following table shows the symbolic constant names, hexadecimal values, and m
 |  | 0x49 | I key |
 |  | 0x4A | J key |
 |  | 0x4B | K key |
-|  | 0x4C | L key |
+|  | 0x4C | í key |
 |  | 0x4D | M key |
 |  | 0x4E | N key |
 |  | 0x4F | O key |
@@ -235,7 +235,7 @@ The following table shows the symbolic constant names, hexadecimal values, and m
 |  | 0x52 | R key |
 |  | 0x53 | S key |
 |  | 0x54 | T key |
-|  | 0x55 | U key |
+|  | 0x55 | é key |
 |  | 0x56 | V key |
 |  | 0x57 | W key |
 |  | 0x58 | X key |
